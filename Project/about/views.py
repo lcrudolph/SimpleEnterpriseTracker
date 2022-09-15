@@ -13,3 +13,4 @@ def info():
 def info2():
     """Testing a method that what is shown"""
     return render_template('info.html')
+    
